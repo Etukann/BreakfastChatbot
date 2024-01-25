@@ -1,0 +1,107 @@
+[
+    {"category": "greetings",
+     "input": ["hello", "hi", "hey", "how's it going", "heya", "heyo"],
+     "responses": "Hello! What can I do for you?",
+     "words_required": []
+    },
+    {"category": "meeting",
+     "input": ["nice", "to", "meet", "you"],
+     "responses": "Nice to meet you too!",
+     "words_required": ["nice", "meet", "you"]
+    },
+    {"category": "name",
+     "input": ["what", "is", "your", "name"],
+     "responses": "You can just call me Morning Bot, as I can help with a few recipies.",
+     "words_required": ["what", "is"]
+    },
+    {"category": "recipies",
+     "input": ["recipie", "recipies", "can", "do", "know"],
+     "responses": "I know a couple of food and drink recipies!",
+     "words_required": []
+    },
+    {"category": "name2",
+     "input": ["my", "name", "is"],
+     "responses": "Nice to meet you!",
+     "words_required": ["my", "is"]
+    },
+    {"category": "thanks",
+     "input": ["thank", "thanks"],
+     "responses": "No worries! Glad I could be of help",
+     "words_required": []
+    },
+    {"category": "how_are_you",
+     "input": ["how", "are"],
+     "responses": "I'm doing good thank you!",
+     "words_required": ["how", "are", "you"]
+    },
+    {"category": "drinks",
+     "input": ["want", "drinks", "drink", "thirsty", "do", "know", "recipies"],
+     "responses": "I know how to make a couple of drinks, such as some types of coffe and juices!",
+     "words_required": []
+    },
+    {"category": "coffees",
+     "input": ["which", "coffee", "cofees", "can", "make", "know", "do"],
+     "responses": "I know how to make a latte and mocha!",
+     "words_required": []
+    },
+    {"category": "juices",
+     "input": ["which", "juice", "juices", "can", "make", "know", "do"],
+     "responses": "I know how to make orange juice and lemonade!",
+     "words_required": ["juices"]
+    },
+    {"category": "latte",
+     "input": ["iced coffee", "iced latte", "latte", "coffee", "can", "make"],
+     "responses": "To get started you should get a few ingredients, some ice cubes, milk and a shot of espresso. Once you have them, you can start by adding the ice cubes to a cup along with the espresso shot. Then add the milk to your liking to adjust the taste. The way I like to do it is once the drink is finished, I add some caramel syrup on top to make it a bit more sweet!",
+     "words_required": []
+    },
+    {"category": "orange",
+     "input": ["orange juice", "orange", "oranges", "can", "make"],
+     "responses": "This one has a lot of vitamins so it'll be good! Get a few oranges and a citrus juicer, or you could also use a machine if you have one. Cut the oranges in half and start squeezing out all of the juice! It seems simple but the cleaning afterwards can be annoying. Also make sure to add some ice cubes so that its nice and cold!",
+     "words_required": ["orange", "juice"]
+    },
+    {"category": "lemonade",
+     "input": ["lemonade", "lemon", "lemons", "can", "make"],
+     "responses": "This is one of my favourites! The ingredients are simple. You'll need 5 lemons, 3 table spoons of sugar and 1 litre of water. Squeeze the lemons using a citrus juicer. Once all the lemons are squeezed, combine them with everything else in a big bowl. Mix until the sugar has fully dissolved. Add some ice cubes and enjoy!",
+     "words_required": ["lemonade"]
+    },
+    {"category": "mocha",
+     "input": ["iced mocha", "mocha", "can", "make"],
+     "responses": "This is a bit on the stronger side depending on how you make it. You'll need 1 tea spoon cocoa powder and sugar, 4 table spoons of very strong hot coffee and 150ml of milk. First start by putting the cocoa powder and the sugar in a cup. Then add the coffee and start stirring. Once the cocoa and sugar dissolve, add the milk in while stirring. You can also add ice cubes if you want to have it cold!",
+     "words_required": ["mocha"]
+    },
+    {"category": "food",
+     "input": ["want", "food", "do", "know", "recipies", "hungry", "breakfast"],
+     "responses": "I know a few breakfast recipies if you're interested! Such as different types of eggs and even pancakes!",
+     "words_required": []
+    },
+    {"category": "eggs",
+     "input": ["eggs", "can", "make"],
+     "responses": "Well which type of eggs do you fancy? Scrambled? Boiled? Omlet?",
+     "words_required": []
+    },
+    {"category": "boiled_eggs",
+     "input": ["boiled eggs", "boiled", "can", "make"],
+     "responses": "This is very simple, you'll just need a pot to boil water and eggs. You can boil the eggs for 3, 4, 5, 6, 7 or 10 minutes depending on how runny or boiled you want your eggs.",
+     "words_required": ["boiled"]
+    },
+    {"category": "omlet",
+     "input": ["omlet", "can", "make"],
+     "responses": "You'll need a few things for this one. First crack some eggs into a bowl and stir fully. Then gather your other ingredient, grated cheese and veggies. Pour the eggs into a pan on medium to high heat with some cooking oil. Let it cook for a few minutes. When the base starts hardening a bit, put your grated cheese and chopped veggies across the egg. Then close the egg like a book with the help of a spatula. Allow this to cook for a few more minutes on both sides and it should be done. Make sure not to burn it tho!",
+     "words_required": ["omlet"]
+    },
+    {"category": "scrambled",
+     "input": ["scrambled eggs", "scrambled", "can", "make"],
+     "responses": "For the best scrambled eggs, make sure to have your pan on medium to high heat. Then crack your eggs in a small bowl and stir it until there are no egg whites. Once that's done, pour it into the pan with some cooking oil. When it's in the pan, make sure to stir it from time to time. You'll know it's done when it's not runny anymore. Don't forget to use salt!",
+     "words_required": ["scrambled"]
+    },
+    {"category": "pancakes",
+     "input": ["pancakes", "pancake", "can", "make"],
+     "responses": "",
+     "words_required": ["pancakes"]
+    },
+    {"category": "goodbye",
+     "input": ["bye", "see you", "cya", "good bye", "bye bye", "byeee", "see ya"],
+     "responses": "Good talking to you!",
+     "words_required": []
+    }
+]
